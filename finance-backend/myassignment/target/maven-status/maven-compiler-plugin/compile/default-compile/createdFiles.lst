@@ -1,0 +1,11 @@
+backendassignment\example\myassignment\repository\UserRepository.class
+backendassignment\example\myassignment\Entity\FinancialRecord.class
+backendassignment\example\myassignment\Exception\GlobalExceptionHandler.class
+backendassignment\example\myassignment\Controller\RecordController.class
+backendassignment\example\myassignment\MyassignmentApplication.class
+backendassignment\example\myassignment\Service\UserService.class
+backendassignment\example\myassignment\Controller\UserController.class
+backendassignment\example\myassignment\Entity\User.class
+backendassignment\example\myassignment\Service\RecordService.class
+backendassignment\example\myassignment\Exception\AccessDeniedException.class
+backendassignment\example\myassignment\repository\RecordRepository.class
